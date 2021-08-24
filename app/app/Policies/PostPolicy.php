@@ -2,7 +2,6 @@
 
 namespace App\Policies;
 
-use App\Http\Controllers\PostLikeController;
 use App\Models\Post;
 use App\Models\User;
 use Illuminate\Auth\Access\HandlesAuthorization;
